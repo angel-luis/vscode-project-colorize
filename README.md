@@ -14,19 +14,19 @@ Uploading to VSC Marketplace...
 
 - Apply colors to the title bar, activity bar or status bar—or to all of them! It helps to preserve the essence of the original theme.
 
-- ![Bars colors](images/readme/bars_colors.gif)
+![Bars colors](images/readme/bars_colors.gif)
 
 - Choose from more than 15 incredible themes that automatically change when you switch between a Light/Dark theme.
 
-- ![Light and Dark themes](images/readme/light_dark_themes.gif)
+![Light and Dark themes](images/readme/light_dark_themes.gif)
 
 - If you prefer your own colors, you can enter the hex color. They will be saved with a slightly opacity when the window is inactive! Isn't that cool?
 
-- ![Custom colors](images/readme/custom_colors.gif)
+![Custom colors](images/readme/custom_colors.gif)
 
 - Automatically saves the configuration in your project folder, under `.vscode/settings.json`. So it will only affect to the current project.
 
-- ![Project folder](images/readme/project_folder.png)
+![Project folder](images/readme/project_folder.png)
 
 ## Usage
 
