@@ -3,6 +3,7 @@
 ![Logo](images/readme/project_colorize_logo_small.png)
 
 Don't get lost between windows again! Customize the main window bars with our awesome themes, designed to complement both Light/Dark themes, or choose your own colors.
+
 ![Project Colorize](images/readme/intro.gif)
 
 ## Download
