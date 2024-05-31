@@ -6,9 +6,9 @@ Don't get lost between windows again! Customize the main window bars with our aw
 
 ![Project Colorize](images/readme/intro.gif)
 
-## Download
+## Install
 
-Uploading to VSC Marketplace...
+Search `Project Colorize` in the Extensions tab or [click here](https://marketplace.visualstudio.com/items?itemName=AngelLuisAlmaraz.project-colorize) to go to the Marketplace page.
 
 ## Features
 
