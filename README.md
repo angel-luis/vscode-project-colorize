@@ -20,6 +20,8 @@ Search `Project Colorize` in the Extensions tab or [click here](https://marketpl
 
 ![Light and Dark themes](images/readme/light_dark_themes.gif)
 
+![Theme Colors Preview](images/readme/theme_colors_preview.png)
+
 - If you prefer your own colors, you can enter the hex color. They will be saved with a slightly opacity when the window is inactive! Isn't that cool?
 
 ![Custom colors](images/readme/custom_colors.gif)
