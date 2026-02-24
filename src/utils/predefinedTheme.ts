@@ -12,6 +12,10 @@ interface PredefinedColors {
 
 export const predefinedTheme: PredefinedColors = {
   1: {
+    Random: {
+      background: "",
+      foreground: "",
+    },
     Afternoon: {
       background: "#81689D",
       foreground: "#FFD0EC",
@@ -106,6 +110,10 @@ export const predefinedTheme: PredefinedColors = {
     },
   },
   2: {
+    Random: {
+      background: "",
+      foreground: "",
+    },
     Afternoon: {
       background: "#474F7A",
       foreground: "#FFD0EC",

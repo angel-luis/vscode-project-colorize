@@ -54,6 +54,10 @@ export default async function getPredefinedTheme(
    * This is because VSC 'activeColorTheme' returns 1/2 based on
    * the active theme
    */
+  if (selectedTheme === "Random") {
+    const themes : string[] = Object.keys(predefinedTheme[vscode.window.activeColorTheme.kind]).filter(theme => theme !== "Random");
+    selectedTheme = themes[Math.floor(Math.random() * themes.length)];
+  }
   return predefinedTheme[vscode.window.activeColorTheme.kind][
     selectedTheme
   ] as Colors;
